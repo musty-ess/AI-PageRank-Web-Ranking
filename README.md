@@ -1,4 +1,4 @@
-# AI-PageRank-Web-Ranking
+# AI PageRank Web Ranking
 
 ## Overview
 
