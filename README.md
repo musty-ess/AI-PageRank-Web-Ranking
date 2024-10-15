@@ -23,7 +23,7 @@ The damping factor (default value: 0.85) controls the behavior of the random sur
 
 ## Getting Started
 
-1. clone the repo using: `git clone`
+1. clone the repo using: `git clone https://github.com/musty-ess/AI-PageRank-Web-Ranking.git`
 2. Run the `pagerank.py` script with the path to a corpus directory.
 
 ## Requirements
